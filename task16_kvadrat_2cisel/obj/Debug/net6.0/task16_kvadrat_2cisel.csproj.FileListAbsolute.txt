@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\c#\task16_kvadrat_2cisel\bin\Debug\net6.0\task16_kvadrat_2cisel.exe
+C:\Users\Admin\Desktop\c#\task16_kvadrat_2cisel\bin\Debug\net6.0\task16_kvadrat_2cisel.deps.json
+C:\Users\Admin\Desktop\c#\task16_kvadrat_2cisel\bin\Debug\net6.0\task16_kvadrat_2cisel.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\task16_kvadrat_2cisel\bin\Debug\net6.0\task16_kvadrat_2cisel.dll
+C:\Users\Admin\Desktop\c#\task16_kvadrat_2cisel\bin\Debug\net6.0\task16_kvadrat_2cisel.pdb
+C:\Users\Admin\Desktop\c#\task16_kvadrat_2cisel\obj\Debug\net6.0\task16_kvadrat_2cisel.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#\task16_kvadrat_2cisel\obj\Debug\net6.0\task16_kvadrat_2cisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\task16_kvadrat_2cisel\obj\Debug\net6.0\task16_kvadrat_2cisel.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\task16_kvadrat_2cisel\obj\Debug\net6.0\task16_kvadrat_2cisel.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\task16_kvadrat_2cisel\obj\Debug\net6.0\task16_kvadrat_2cisel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\task16_kvadrat_2cisel\obj\Debug\net6.0\task16_kvadrat_2cisel.dll
+C:\Users\Admin\Desktop\c#\task16_kvadrat_2cisel\obj\Debug\net6.0\refint\task16_kvadrat_2cisel.dll
+C:\Users\Admin\Desktop\c#\task16_kvadrat_2cisel\obj\Debug\net6.0\task16_kvadrat_2cisel.pdb
+C:\Users\Admin\Desktop\c#\task16_kvadrat_2cisel\obj\Debug\net6.0\task16_kvadrat_2cisel.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\task16_kvadrat_2cisel\obj\Debug\net6.0\ref\task16_kvadrat_2cisel.dll
