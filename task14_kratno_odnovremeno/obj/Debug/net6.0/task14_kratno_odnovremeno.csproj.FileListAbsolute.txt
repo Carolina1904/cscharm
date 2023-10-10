@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\c#\task14_kratno_odnovremeno\obj\Debug\net6.0\task14_kratno_odnovremeno.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#\task14_kratno_odnovremeno\obj\Debug\net6.0\task14_kratno_odnovremeno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\task14_kratno_odnovremeno\obj\Debug\net6.0\task14_kratno_odnovremeno.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\task14_kratno_odnovremeno\obj\Debug\net6.0\task14_kratno_odnovremeno.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\task14_kratno_odnovremeno\obj\Debug\net6.0\task14_kratno_odnovremeno.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\task14_kratno_odnovremeno\bin\Debug\net6.0\task14_kratno_odnovremeno.exe
+C:\Users\Admin\Desktop\c#\task14_kratno_odnovremeno\bin\Debug\net6.0\task14_kratno_odnovremeno.deps.json
+C:\Users\Admin\Desktop\c#\task14_kratno_odnovremeno\bin\Debug\net6.0\task14_kratno_odnovremeno.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\task14_kratno_odnovremeno\bin\Debug\net6.0\task14_kratno_odnovremeno.dll
+C:\Users\Admin\Desktop\c#\task14_kratno_odnovremeno\bin\Debug\net6.0\task14_kratno_odnovremeno.pdb
+C:\Users\Admin\Desktop\c#\task14_kratno_odnovremeno\obj\Debug\net6.0\task14_kratno_odnovremeno.dll
+C:\Users\Admin\Desktop\c#\task14_kratno_odnovremeno\obj\Debug\net6.0\refint\task14_kratno_odnovremeno.dll
+C:\Users\Admin\Desktop\c#\task14_kratno_odnovremeno\obj\Debug\net6.0\task14_kratno_odnovremeno.pdb
+C:\Users\Admin\Desktop\c#\task14_kratno_odnovremeno\obj\Debug\net6.0\task14_kratno_odnovremeno.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\task14_kratno_odnovremeno\obj\Debug\net6.0\ref\task14_kratno_odnovremeno.dll
