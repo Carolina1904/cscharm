@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task37_proizvedenie_parcisel/1.0.0": {
+        "runtime": {
+          "task37_proizvedenie_parcisel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task37_proizvedenie_parcisel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

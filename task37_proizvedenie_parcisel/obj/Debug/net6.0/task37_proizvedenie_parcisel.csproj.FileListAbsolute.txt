@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\c#\task37_proizvedenie_parcisel\obj\Debug\net6.0\task37_proizvedenie_parcisel.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#\task37_proizvedenie_parcisel\obj\Debug\net6.0\task37_proizvedenie_parcisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\task37_proizvedenie_parcisel\obj\Debug\net6.0\task37_proizvedenie_parcisel.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\task37_proizvedenie_parcisel\obj\Debug\net6.0\task37_proizvedenie_parcisel.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\task37_proizvedenie_parcisel\obj\Debug\net6.0\task37_proizvedenie_parcisel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\task37_proizvedenie_parcisel\bin\Debug\net6.0\task37_proizvedenie_parcisel.exe
+C:\Users\Admin\Desktop\c#\task37_proizvedenie_parcisel\bin\Debug\net6.0\task37_proizvedenie_parcisel.deps.json
+C:\Users\Admin\Desktop\c#\task37_proizvedenie_parcisel\bin\Debug\net6.0\task37_proizvedenie_parcisel.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\task37_proizvedenie_parcisel\bin\Debug\net6.0\task37_proizvedenie_parcisel.dll
+C:\Users\Admin\Desktop\c#\task37_proizvedenie_parcisel\bin\Debug\net6.0\task37_proizvedenie_parcisel.pdb
+C:\Users\Admin\Desktop\c#\task37_proizvedenie_parcisel\obj\Debug\net6.0\task37_proizvedenie_parcisel.dll
+C:\Users\Admin\Desktop\c#\task37_proizvedenie_parcisel\obj\Debug\net6.0\refint\task37_proizvedenie_parcisel.dll
+C:\Users\Admin\Desktop\c#\task37_proizvedenie_parcisel\obj\Debug\net6.0\task37_proizvedenie_parcisel.pdb
+C:\Users\Admin\Desktop\c#\task37_proizvedenie_parcisel\obj\Debug\net6.0\task37_proizvedenie_parcisel.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\task37_proizvedenie_parcisel\obj\Debug\net6.0\ref\task37_proizvedenie_parcisel.dll
