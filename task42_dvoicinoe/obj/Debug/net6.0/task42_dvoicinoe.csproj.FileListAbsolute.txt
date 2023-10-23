@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\c#\task42_dvoicinoe\bin\Debug\net6.0\task42_dvoicinoe.exe
+C:\Users\Admin\Desktop\c#\task42_dvoicinoe\bin\Debug\net6.0\task42_dvoicinoe.deps.json
+C:\Users\Admin\Desktop\c#\task42_dvoicinoe\bin\Debug\net6.0\task42_dvoicinoe.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\task42_dvoicinoe\bin\Debug\net6.0\task42_dvoicinoe.dll
+C:\Users\Admin\Desktop\c#\task42_dvoicinoe\bin\Debug\net6.0\task42_dvoicinoe.pdb
+C:\Users\Admin\Desktop\c#\task42_dvoicinoe\obj\Debug\net6.0\task42_dvoicinoe.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#\task42_dvoicinoe\obj\Debug\net6.0\task42_dvoicinoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\task42_dvoicinoe\obj\Debug\net6.0\task42_dvoicinoe.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\task42_dvoicinoe\obj\Debug\net6.0\task42_dvoicinoe.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\task42_dvoicinoe\obj\Debug\net6.0\task42_dvoicinoe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\task42_dvoicinoe\obj\Debug\net6.0\task42_dvoicinoe.dll
+C:\Users\Admin\Desktop\c#\task42_dvoicinoe\obj\Debug\net6.0\refint\task42_dvoicinoe.dll
+C:\Users\Admin\Desktop\c#\task42_dvoicinoe\obj\Debug\net6.0\task42_dvoicinoe.pdb
+C:\Users\Admin\Desktop\c#\task42_dvoicinoe\obj\Debug\net6.0\task42_dvoicinoe.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\task42_dvoicinoe\obj\Debug\net6.0\ref\task42_dvoicinoe.dll
