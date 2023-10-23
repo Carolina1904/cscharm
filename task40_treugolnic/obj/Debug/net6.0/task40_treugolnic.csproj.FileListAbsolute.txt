@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\c#\task40_treugolnic\bin\Debug\net6.0\task40_treugolnic.exe
+C:\Users\Admin\Desktop\c#\task40_treugolnic\bin\Debug\net6.0\task40_treugolnic.deps.json
+C:\Users\Admin\Desktop\c#\task40_treugolnic\bin\Debug\net6.0\task40_treugolnic.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\task40_treugolnic\bin\Debug\net6.0\task40_treugolnic.dll
+C:\Users\Admin\Desktop\c#\task40_treugolnic\bin\Debug\net6.0\task40_treugolnic.pdb
+C:\Users\Admin\Desktop\c#\task40_treugolnic\obj\Debug\net6.0\task40_treugolnic.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#\task40_treugolnic\obj\Debug\net6.0\task40_treugolnic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\task40_treugolnic\obj\Debug\net6.0\task40_treugolnic.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\task40_treugolnic\obj\Debug\net6.0\task40_treugolnic.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\task40_treugolnic\obj\Debug\net6.0\task40_treugolnic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\task40_treugolnic\obj\Debug\net6.0\task40_treugolnic.dll
+C:\Users\Admin\Desktop\c#\task40_treugolnic\obj\Debug\net6.0\refint\task40_treugolnic.dll
+C:\Users\Admin\Desktop\c#\task40_treugolnic\obj\Debug\net6.0\task40_treugolnic.pdb
+C:\Users\Admin\Desktop\c#\task40_treugolnic\obj\Debug\net6.0\task40_treugolnic.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\task40_treugolnic\obj\Debug\net6.0\ref\task40_treugolnic.dll
