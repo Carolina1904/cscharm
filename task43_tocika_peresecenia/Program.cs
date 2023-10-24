@@ -90,7 +90,7 @@ else
 }
 
 
-static double[] CalculateIntersection(double k1, double b1, double k2, double b2)
+double[] CalculateIntersection(double k1, double b1, double k2, double b2)
 {
     if (k1 == k2)
     {
