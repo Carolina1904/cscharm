@@ -4,7 +4,7 @@
 */
 
 
-/*Console.WriteLine("Введите параметры первой прямой:");
+Console.WriteLine("Введите параметры первой прямой:");
 Console.Write("Значение k1: ");
 if (!double.TryParse(Console.ReadLine(), out double k1))
 {
@@ -43,11 +43,11 @@ else
     double x = (b2 - b1) / (k1 - k2);
     double y = k1 * x + b1;
     Console.WriteLine($"Точка пересечения: ({x}, {y})");
-}*/
+}
 
 
 
-Console.WriteLine("Введите параметры первой прямой:");
+/*Console.WriteLine("Введите параметры первой прямой:");
 Console.Write("Значение k1: ");
 if (!double.TryParse(Console.ReadLine(), out double k1))
 {
@@ -101,4 +101,4 @@ double[] CalculateIntersection(double k1, double b1, double k2, double b2)
     double y = k1 * x + b1;
 
     return new double[] { x, y };
-}
+}*/
