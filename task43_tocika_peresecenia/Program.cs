@@ -47,6 +47,16 @@ else
 
 
 
+
+
+
+
+
+
+
+
+
+
 /*Console.WriteLine("Введите параметры первой прямой:");
 Console.Write("Значение k1: ");
 if (!double.TryParse(Console.ReadLine(), out double k1))
