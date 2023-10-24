@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\c#\task43_tocika_peresecenia\bin\Debug\net6.0\task43_tocika_peresecenia.exe
+C:\Users\Admin\Desktop\c#\task43_tocika_peresecenia\bin\Debug\net6.0\task43_tocika_peresecenia.deps.json
+C:\Users\Admin\Desktop\c#\task43_tocika_peresecenia\bin\Debug\net6.0\task43_tocika_peresecenia.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\task43_tocika_peresecenia\bin\Debug\net6.0\task43_tocika_peresecenia.dll
+C:\Users\Admin\Desktop\c#\task43_tocika_peresecenia\bin\Debug\net6.0\task43_tocika_peresecenia.pdb
+C:\Users\Admin\Desktop\c#\task43_tocika_peresecenia\obj\Debug\net6.0\task43_tocika_peresecenia.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#\task43_tocika_peresecenia\obj\Debug\net6.0\task43_tocika_peresecenia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\task43_tocika_peresecenia\obj\Debug\net6.0\task43_tocika_peresecenia.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\task43_tocika_peresecenia\obj\Debug\net6.0\task43_tocika_peresecenia.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\task43_tocika_peresecenia\obj\Debug\net6.0\task43_tocika_peresecenia.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\task43_tocika_peresecenia\obj\Debug\net6.0\task43_tocika_peresecenia.dll
+C:\Users\Admin\Desktop\c#\task43_tocika_peresecenia\obj\Debug\net6.0\refint\task43_tocika_peresecenia.dll
+C:\Users\Admin\Desktop\c#\task43_tocika_peresecenia\obj\Debug\net6.0\task43_tocika_peresecenia.pdb
+C:\Users\Admin\Desktop\c#\task43_tocika_peresecenia\obj\Debug\net6.0\task43_tocika_peresecenia.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\task43_tocika_peresecenia\obj\Debug\net6.0\ref\task43_tocika_peresecenia.dll
