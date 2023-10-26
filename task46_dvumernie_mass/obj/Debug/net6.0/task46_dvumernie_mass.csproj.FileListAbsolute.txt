@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\c#\task46_dvumernie_mass\obj\Debug\net6.0\task46_dvumernie_mass.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#\task46_dvumernie_mass\obj\Debug\net6.0\task46_dvumernie_mass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\task46_dvumernie_mass\obj\Debug\net6.0\task46_dvumernie_mass.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\task46_dvumernie_mass\obj\Debug\net6.0\task46_dvumernie_mass.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\task46_dvumernie_mass\obj\Debug\net6.0\task46_dvumernie_mass.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\task46_dvumernie_mass\bin\Debug\net6.0\task46_dvumernie_mass.exe
+C:\Users\Admin\Desktop\c#\task46_dvumernie_mass\bin\Debug\net6.0\task46_dvumernie_mass.deps.json
+C:\Users\Admin\Desktop\c#\task46_dvumernie_mass\bin\Debug\net6.0\task46_dvumernie_mass.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\task46_dvumernie_mass\bin\Debug\net6.0\task46_dvumernie_mass.dll
+C:\Users\Admin\Desktop\c#\task46_dvumernie_mass\bin\Debug\net6.0\task46_dvumernie_mass.pdb
+C:\Users\Admin\Desktop\c#\task46_dvumernie_mass\obj\Debug\net6.0\task46_dvumernie_mass.dll
+C:\Users\Admin\Desktop\c#\task46_dvumernie_mass\obj\Debug\net6.0\refint\task46_dvumernie_mass.dll
+C:\Users\Admin\Desktop\c#\task46_dvumernie_mass\obj\Debug\net6.0\task46_dvumernie_mass.pdb
+C:\Users\Admin\Desktop\c#\task46_dvumernie_mass\obj\Debug\net6.0\task46_dvumernie_mass.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\task46_dvumernie_mass\obj\Debug\net6.0\ref\task46_dvumernie_mass.dll
