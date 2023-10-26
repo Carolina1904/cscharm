@@ -47,17 +47,23 @@ int[,] GetRandomArray(int strg, int stlb)
     return array;
 }
 
-void PrintArray(int[,] arr)
+void PrintArray(int[,] array)
 {
-    
-    for (int i = 0; i < arr.GetLength(0); i++)
+    System.Console.Write($"[ ]\t");
+    int start = 0;
+    for (int i = start; i < start + array.GetLength(1); i++)
     {
-        for (int j = 0; j < arr.GetLength(1); j++)
+        System.Console.Write($"[{i}]\t");
+    }
+    System.Console.WriteLine();
+    for (int i = 0; i < array.GetLength(0); i++)
+    {
+        System.Console.Write($"["+ i +"]\t");
+        for (int j = 0; j < array.GetLength(1); j++)
         {
-            System.Console.Write(arr[i, j]+ "\t");
-           
+        System.Console.Write(array[i, j] + "\t");
         }
-        System.Console.WriteLine();  
+        System.Console.WriteLine();
     }
 }
 System.Console.WriteLine("Введите кол-во строк: ");
