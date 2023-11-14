@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\c#\task56_stroki na stolbti\bin\Debug\net6.0\task56_stroki na stolbti.exe
+C:\Users\Admin\Desktop\c#\task56_stroki na stolbti\bin\Debug\net6.0\task56_stroki na stolbti.deps.json
+C:\Users\Admin\Desktop\c#\task56_stroki na stolbti\bin\Debug\net6.0\task56_stroki na stolbti.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\task56_stroki na stolbti\bin\Debug\net6.0\task56_stroki na stolbti.dll
+C:\Users\Admin\Desktop\c#\task56_stroki na stolbti\bin\Debug\net6.0\task56_stroki na stolbti.pdb
+C:\Users\Admin\Desktop\c#\task56_stroki na stolbti\obj\Debug\net6.0\task56_stroki na stolbti.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#\task56_stroki na stolbti\obj\Debug\net6.0\task56_stroki na stolbti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\task56_stroki na stolbti\obj\Debug\net6.0\task56_stroki na stolbti.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\task56_stroki na stolbti\obj\Debug\net6.0\task56_stroki na stolbti.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\task56_stroki na stolbti\obj\Debug\net6.0\task56_stroki na stolbti.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\task56_stroki na stolbti\obj\Debug\net6.0\task56_stroki na stolbti.dll
+C:\Users\Admin\Desktop\c#\task56_stroki na stolbti\obj\Debug\net6.0\refint\task56_stroki na stolbti.dll
+C:\Users\Admin\Desktop\c#\task56_stroki na stolbti\obj\Debug\net6.0\task56_stroki na stolbti.pdb
+C:\Users\Admin\Desktop\c#\task56_stroki na stolbti\obj\Debug\net6.0\task56_stroki na stolbti.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\task56_stroki na stolbti\obj\Debug\net6.0\ref\task56_stroki na stolbti.dll
