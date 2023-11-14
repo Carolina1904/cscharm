@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\c#\task53_meniaetstrokumassiva\bin\Debug\net6.0\task53_meniaetstrokumassiva.exe
+C:\Users\Admin\Desktop\c#\task53_meniaetstrokumassiva\bin\Debug\net6.0\task53_meniaetstrokumassiva.deps.json
+C:\Users\Admin\Desktop\c#\task53_meniaetstrokumassiva\bin\Debug\net6.0\task53_meniaetstrokumassiva.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\task53_meniaetstrokumassiva\bin\Debug\net6.0\task53_meniaetstrokumassiva.dll
+C:\Users\Admin\Desktop\c#\task53_meniaetstrokumassiva\bin\Debug\net6.0\task53_meniaetstrokumassiva.pdb
+C:\Users\Admin\Desktop\c#\task53_meniaetstrokumassiva\obj\Debug\net6.0\task53_meniaetstrokumassiva.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#\task53_meniaetstrokumassiva\obj\Debug\net6.0\task53_meniaetstrokumassiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\task53_meniaetstrokumassiva\obj\Debug\net6.0\task53_meniaetstrokumassiva.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\task53_meniaetstrokumassiva\obj\Debug\net6.0\task53_meniaetstrokumassiva.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\task53_meniaetstrokumassiva\obj\Debug\net6.0\task53_meniaetstrokumassiva.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\task53_meniaetstrokumassiva\obj\Debug\net6.0\task53_meniaetstrokumassiva.dll
+C:\Users\Admin\Desktop\c#\task53_meniaetstrokumassiva\obj\Debug\net6.0\refint\task53_meniaetstrokumassiva.dll
+C:\Users\Admin\Desktop\c#\task53_meniaetstrokumassiva\obj\Debug\net6.0\task53_meniaetstrokumassiva.pdb
+C:\Users\Admin\Desktop\c#\task53_meniaetstrokumassiva\obj\Debug\net6.0\task53_meniaetstrokumassiva.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\task53_meniaetstrokumassiva\obj\Debug\net6.0\ref\task53_meniaetstrokumassiva.dll
