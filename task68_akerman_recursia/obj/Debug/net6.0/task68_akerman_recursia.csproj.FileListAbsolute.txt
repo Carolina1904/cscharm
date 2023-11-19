@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\c#\task68_akerman_recursia\bin\Debug\net6.0\task68_akerman_recursia.exe
+C:\Users\Admin\Desktop\c#\task68_akerman_recursia\bin\Debug\net6.0\task68_akerman_recursia.deps.json
+C:\Users\Admin\Desktop\c#\task68_akerman_recursia\bin\Debug\net6.0\task68_akerman_recursia.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\task68_akerman_recursia\bin\Debug\net6.0\task68_akerman_recursia.dll
+C:\Users\Admin\Desktop\c#\task68_akerman_recursia\bin\Debug\net6.0\task68_akerman_recursia.pdb
+C:\Users\Admin\Desktop\c#\task68_akerman_recursia\obj\Debug\net6.0\task68_akerman_recursia.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#\task68_akerman_recursia\obj\Debug\net6.0\task68_akerman_recursia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\task68_akerman_recursia\obj\Debug\net6.0\task68_akerman_recursia.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\task68_akerman_recursia\obj\Debug\net6.0\task68_akerman_recursia.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\task68_akerman_recursia\obj\Debug\net6.0\task68_akerman_recursia.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\task68_akerman_recursia\obj\Debug\net6.0\task68_akerman_recursia.dll
+C:\Users\Admin\Desktop\c#\task68_akerman_recursia\obj\Debug\net6.0\refint\task68_akerman_recursia.dll
+C:\Users\Admin\Desktop\c#\task68_akerman_recursia\obj\Debug\net6.0\task68_akerman_recursia.pdb
+C:\Users\Admin\Desktop\c#\task68_akerman_recursia\obj\Debug\net6.0\task68_akerman_recursia.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\task68_akerman_recursia\obj\Debug\net6.0\ref\task68_akerman_recursia.dll
