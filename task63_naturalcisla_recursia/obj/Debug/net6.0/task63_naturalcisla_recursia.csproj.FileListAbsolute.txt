@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\c#\task63_naturalcisla_recursia\obj\Debug\net6.0\task63_naturalcisla_recursia.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#\task63_naturalcisla_recursia\obj\Debug\net6.0\task63_naturalcisla_recursia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\task63_naturalcisla_recursia\obj\Debug\net6.0\task63_naturalcisla_recursia.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\task63_naturalcisla_recursia\obj\Debug\net6.0\task63_naturalcisla_recursia.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\task63_naturalcisla_recursia\obj\Debug\net6.0\task63_naturalcisla_recursia.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\task63_naturalcisla_recursia\bin\Debug\net6.0\task63_naturalcisla_recursia.exe
+C:\Users\Admin\Desktop\c#\task63_naturalcisla_recursia\bin\Debug\net6.0\task63_naturalcisla_recursia.deps.json
+C:\Users\Admin\Desktop\c#\task63_naturalcisla_recursia\bin\Debug\net6.0\task63_naturalcisla_recursia.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\task63_naturalcisla_recursia\bin\Debug\net6.0\task63_naturalcisla_recursia.dll
+C:\Users\Admin\Desktop\c#\task63_naturalcisla_recursia\bin\Debug\net6.0\task63_naturalcisla_recursia.pdb
+C:\Users\Admin\Desktop\c#\task63_naturalcisla_recursia\obj\Debug\net6.0\task63_naturalcisla_recursia.dll
+C:\Users\Admin\Desktop\c#\task63_naturalcisla_recursia\obj\Debug\net6.0\refint\task63_naturalcisla_recursia.dll
+C:\Users\Admin\Desktop\c#\task63_naturalcisla_recursia\obj\Debug\net6.0\task63_naturalcisla_recursia.pdb
+C:\Users\Admin\Desktop\c#\task63_naturalcisla_recursia\obj\Debug\net6.0\task63_naturalcisla_recursia.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\task63_naturalcisla_recursia\obj\Debug\net6.0\ref\task63_naturalcisla_recursia.dll
