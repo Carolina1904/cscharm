@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\c#\task65_znaceniaM_N_recursia\bin\Debug\net6.0\task65_znaceniaM_N_recursia.exe
+C:\Users\Admin\Desktop\c#\task65_znaceniaM_N_recursia\bin\Debug\net6.0\task65_znaceniaM_N_recursia.deps.json
+C:\Users\Admin\Desktop\c#\task65_znaceniaM_N_recursia\bin\Debug\net6.0\task65_znaceniaM_N_recursia.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\task65_znaceniaM_N_recursia\bin\Debug\net6.0\task65_znaceniaM_N_recursia.dll
+C:\Users\Admin\Desktop\c#\task65_znaceniaM_N_recursia\bin\Debug\net6.0\task65_znaceniaM_N_recursia.pdb
+C:\Users\Admin\Desktop\c#\task65_znaceniaM_N_recursia\obj\Debug\net6.0\task65_znaceniaM_N_recursia.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#\task65_znaceniaM_N_recursia\obj\Debug\net6.0\task65_znaceniaM_N_recursia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\task65_znaceniaM_N_recursia\obj\Debug\net6.0\task65_znaceniaM_N_recursia.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\task65_znaceniaM_N_recursia\obj\Debug\net6.0\task65_znaceniaM_N_recursia.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\task65_znaceniaM_N_recursia\obj\Debug\net6.0\task65_znaceniaM_N_recursia.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\task65_znaceniaM_N_recursia\obj\Debug\net6.0\task65_znaceniaM_N_recursia.dll
+C:\Users\Admin\Desktop\c#\task65_znaceniaM_N_recursia\obj\Debug\net6.0\refint\task65_znaceniaM_N_recursia.dll
+C:\Users\Admin\Desktop\c#\task65_znaceniaM_N_recursia\obj\Debug\net6.0\task65_znaceniaM_N_recursia.pdb
+C:\Users\Admin\Desktop\c#\task65_znaceniaM_N_recursia\obj\Debug\net6.0\task65_znaceniaM_N_recursia.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\task65_znaceniaM_N_recursia\obj\Debug\net6.0\ref\task65_znaceniaM_N_recursia.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task65_znaceniaM_N_recursia/1.0.0": {
+        "runtime": {
+          "task65_znaceniaM_N_recursia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task65_znaceniaM_N_recursia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
