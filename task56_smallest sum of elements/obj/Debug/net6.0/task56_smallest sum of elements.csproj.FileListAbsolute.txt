@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\c#\task56_smallest sum of elements\obj\Debug\net6.0\task56_smallest sum of elements.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#\task56_smallest sum of elements\obj\Debug\net6.0\task56_smallest sum of elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\task56_smallest sum of elements\obj\Debug\net6.0\task56_smallest sum of elements.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\task56_smallest sum of elements\obj\Debug\net6.0\task56_smallest sum of elements.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\task56_smallest sum of elements\obj\Debug\net6.0\task56_smallest sum of elements.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\task56_smallest sum of elements\bin\Debug\net6.0\task56_smallest sum of elements.exe
+C:\Users\Admin\Desktop\c#\task56_smallest sum of elements\bin\Debug\net6.0\task56_smallest sum of elements.deps.json
+C:\Users\Admin\Desktop\c#\task56_smallest sum of elements\bin\Debug\net6.0\task56_smallest sum of elements.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\task56_smallest sum of elements\bin\Debug\net6.0\task56_smallest sum of elements.dll
+C:\Users\Admin\Desktop\c#\task56_smallest sum of elements\bin\Debug\net6.0\task56_smallest sum of elements.pdb
+C:\Users\Admin\Desktop\c#\task56_smallest sum of elements\obj\Debug\net6.0\task56_smallest sum of elements.dll
+C:\Users\Admin\Desktop\c#\task56_smallest sum of elements\obj\Debug\net6.0\refint\task56_smallest sum of elements.dll
+C:\Users\Admin\Desktop\c#\task56_smallest sum of elements\obj\Debug\net6.0\task56_smallest sum of elements.pdb
+C:\Users\Admin\Desktop\c#\task56_smallest sum of elements\obj\Debug\net6.0\task56_smallest sum of elements.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\task56_smallest sum of elements\obj\Debug\net6.0\ref\task56_smallest sum of elements.dll
