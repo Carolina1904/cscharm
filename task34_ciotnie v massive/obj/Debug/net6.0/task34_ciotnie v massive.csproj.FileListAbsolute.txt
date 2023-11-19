@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\c#\task34_ciotnie v massive\bin\Debug\net6.0\task34_ciotnie v massive.exe
+C:\Users\Admin\Desktop\c#\task34_ciotnie v massive\bin\Debug\net6.0\task34_ciotnie v massive.deps.json
+C:\Users\Admin\Desktop\c#\task34_ciotnie v massive\bin\Debug\net6.0\task34_ciotnie v massive.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\task34_ciotnie v massive\bin\Debug\net6.0\task34_ciotnie v massive.dll
+C:\Users\Admin\Desktop\c#\task34_ciotnie v massive\bin\Debug\net6.0\task34_ciotnie v massive.pdb
+C:\Users\Admin\Desktop\c#\task34_ciotnie v massive\obj\Debug\net6.0\task34_ciotnie v massive.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#\task34_ciotnie v massive\obj\Debug\net6.0\task34_ciotnie v massive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\task34_ciotnie v massive\obj\Debug\net6.0\task34_ciotnie v massive.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\task34_ciotnie v massive\obj\Debug\net6.0\task34_ciotnie v massive.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\task34_ciotnie v massive\obj\Debug\net6.0\task34_ciotnie v massive.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\task34_ciotnie v massive\obj\Debug\net6.0\task34_ciotnie v massive.dll
+C:\Users\Admin\Desktop\c#\task34_ciotnie v massive\obj\Debug\net6.0\refint\task34_ciotnie v massive.dll
+C:\Users\Admin\Desktop\c#\task34_ciotnie v massive\obj\Debug\net6.0\task34_ciotnie v massive.pdb
+C:\Users\Admin\Desktop\c#\task34_ciotnie v massive\obj\Debug\net6.0\task34_ciotnie v massive.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\task34_ciotnie v massive\obj\Debug\net6.0\ref\task34_ciotnie v massive.dll
