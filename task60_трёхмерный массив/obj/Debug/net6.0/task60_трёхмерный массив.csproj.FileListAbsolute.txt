@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\c#\task60_трёхмерный массив\bin\Debug\net6.0\task60_трёхмерный массив.exe
+C:\Users\Admin\Desktop\c#\task60_трёхмерный массив\bin\Debug\net6.0\task60_трёхмерный массив.deps.json
+C:\Users\Admin\Desktop\c#\task60_трёхмерный массив\bin\Debug\net6.0\task60_трёхмерный массив.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\task60_трёхмерный массив\bin\Debug\net6.0\task60_трёхмерный массив.dll
+C:\Users\Admin\Desktop\c#\task60_трёхмерный массив\bin\Debug\net6.0\task60_трёхмерный массив.pdb
+C:\Users\Admin\Desktop\c#\task60_трёхмерный массив\obj\Debug\net6.0\task60_трёхмерный массив.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#\task60_трёхмерный массив\obj\Debug\net6.0\task60_трёхмерный массив.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\task60_трёхмерный массив\obj\Debug\net6.0\task60_трёхмерный массив.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\task60_трёхмерный массив\obj\Debug\net6.0\task60_трёхмерный массив.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\task60_трёхмерный массив\obj\Debug\net6.0\task60_трёхмерный массив.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\task60_трёхмерный массив\obj\Debug\net6.0\task60_трёхмерный массив.dll
+C:\Users\Admin\Desktop\c#\task60_трёхмерный массив\obj\Debug\net6.0\refint\task60_трёхмерный массив.dll
+C:\Users\Admin\Desktop\c#\task60_трёхмерный массив\obj\Debug\net6.0\task60_трёхмерный массив.pdb
+C:\Users\Admin\Desktop\c#\task60_трёхмерный массив\obj\Debug\net6.0\task60_трёхмерный массив.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\task60_трёхмерный массив\obj\Debug\net6.0\ref\task60_трёхмерный массив.dll
