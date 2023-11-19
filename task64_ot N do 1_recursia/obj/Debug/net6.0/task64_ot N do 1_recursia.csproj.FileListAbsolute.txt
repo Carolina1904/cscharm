@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\c#\task64_ot N do 1_recursia\obj\Debug\net6.0\task64_ot N do 1_recursia.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#\task64_ot N do 1_recursia\obj\Debug\net6.0\task64_ot N do 1_recursia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\task64_ot N do 1_recursia\obj\Debug\net6.0\task64_ot N do 1_recursia.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\task64_ot N do 1_recursia\obj\Debug\net6.0\task64_ot N do 1_recursia.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\task64_ot N do 1_recursia\obj\Debug\net6.0\task64_ot N do 1_recursia.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\task64_ot N do 1_recursia\bin\Debug\net6.0\task64_ot N do 1_recursia.exe
+C:\Users\Admin\Desktop\c#\task64_ot N do 1_recursia\bin\Debug\net6.0\task64_ot N do 1_recursia.deps.json
+C:\Users\Admin\Desktop\c#\task64_ot N do 1_recursia\bin\Debug\net6.0\task64_ot N do 1_recursia.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\task64_ot N do 1_recursia\bin\Debug\net6.0\task64_ot N do 1_recursia.dll
+C:\Users\Admin\Desktop\c#\task64_ot N do 1_recursia\bin\Debug\net6.0\task64_ot N do 1_recursia.pdb
+C:\Users\Admin\Desktop\c#\task64_ot N do 1_recursia\obj\Debug\net6.0\task64_ot N do 1_recursia.dll
+C:\Users\Admin\Desktop\c#\task64_ot N do 1_recursia\obj\Debug\net6.0\refint\task64_ot N do 1_recursia.dll
+C:\Users\Admin\Desktop\c#\task64_ot N do 1_recursia\obj\Debug\net6.0\task64_ot N do 1_recursia.pdb
+C:\Users\Admin\Desktop\c#\task64_ot N do 1_recursia\obj\Debug\net6.0\task64_ot N do 1_recursia.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\task64_ot N do 1_recursia\obj\Debug\net6.0\ref\task64_ot N do 1_recursia.dll
