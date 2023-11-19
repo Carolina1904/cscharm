@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\c#\\task56_stroki na stolbti\\task56_stroki na stolbti.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\c#\\task55_stroki na stolbti\\task56_stroki na stolbti.csproj",
       "projectName": "task56_stroki na stolbti",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\c#\\task56_stroki na stolbti\\task56_stroki na stolbti.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\c#\\task55_stroki na stolbti\\task56_stroki na stolbti.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\c#\\task56_stroki na stolbti\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\c#\\task55_stroki na stolbti\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.416\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.417\\RuntimeIdentifierGraph.json"
       }
     }
   }
