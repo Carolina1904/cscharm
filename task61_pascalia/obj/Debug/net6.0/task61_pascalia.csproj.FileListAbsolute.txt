@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\c#\task61_pascalia\bin\Debug\net6.0\task61_pascalia.exe
+C:\Users\Admin\Desktop\c#\task61_pascalia\bin\Debug\net6.0\task61_pascalia.deps.json
+C:\Users\Admin\Desktop\c#\task61_pascalia\bin\Debug\net6.0\task61_pascalia.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\task61_pascalia\bin\Debug\net6.0\task61_pascalia.dll
+C:\Users\Admin\Desktop\c#\task61_pascalia\bin\Debug\net6.0\task61_pascalia.pdb
+C:\Users\Admin\Desktop\c#\task61_pascalia\obj\Debug\net6.0\task61_pascalia.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#\task61_pascalia\obj\Debug\net6.0\task61_pascalia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\task61_pascalia\obj\Debug\net6.0\task61_pascalia.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\task61_pascalia\obj\Debug\net6.0\task61_pascalia.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\task61_pascalia\obj\Debug\net6.0\task61_pascalia.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\task61_pascalia\obj\Debug\net6.0\task61_pascalia.dll
+C:\Users\Admin\Desktop\c#\task61_pascalia\obj\Debug\net6.0\refint\task61_pascalia.dll
+C:\Users\Admin\Desktop\c#\task61_pascalia\obj\Debug\net6.0\task61_pascalia.pdb
+C:\Users\Admin\Desktop\c#\task61_pascalia\obj\Debug\net6.0\task61_pascalia.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\task61_pascalia\obj\Debug\net6.0\ref\task61_pascalia.dll
