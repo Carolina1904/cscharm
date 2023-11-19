@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\c#\task66_summ ot MtoN_recursia\obj\Debug\net6.0\task66_summ ot MtoN_recursia.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#\task66_summ ot MtoN_recursia\obj\Debug\net6.0\task66_summ ot MtoN_recursia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\task66_summ ot MtoN_recursia\obj\Debug\net6.0\task66_summ ot MtoN_recursia.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\task66_summ ot MtoN_recursia\obj\Debug\net6.0\task66_summ ot MtoN_recursia.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\task66_summ ot MtoN_recursia\obj\Debug\net6.0\task66_summ ot MtoN_recursia.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\task66_summ ot MtoN_recursia\bin\Debug\net6.0\task66_summ ot MtoN_recursia.exe
+C:\Users\Admin\Desktop\c#\task66_summ ot MtoN_recursia\bin\Debug\net6.0\task66_summ ot MtoN_recursia.deps.json
+C:\Users\Admin\Desktop\c#\task66_summ ot MtoN_recursia\bin\Debug\net6.0\task66_summ ot MtoN_recursia.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\task66_summ ot MtoN_recursia\bin\Debug\net6.0\task66_summ ot MtoN_recursia.dll
+C:\Users\Admin\Desktop\c#\task66_summ ot MtoN_recursia\bin\Debug\net6.0\task66_summ ot MtoN_recursia.pdb
+C:\Users\Admin\Desktop\c#\task66_summ ot MtoN_recursia\obj\Debug\net6.0\task66_summ ot MtoN_recursia.dll
+C:\Users\Admin\Desktop\c#\task66_summ ot MtoN_recursia\obj\Debug\net6.0\refint\task66_summ ot MtoN_recursia.dll
+C:\Users\Admin\Desktop\c#\task66_summ ot MtoN_recursia\obj\Debug\net6.0\task66_summ ot MtoN_recursia.pdb
+C:\Users\Admin\Desktop\c#\task66_summ ot MtoN_recursia\obj\Debug\net6.0\task66_summ ot MtoN_recursia.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\task66_summ ot MtoN_recursia\obj\Debug\net6.0\ref\task66_summ ot MtoN_recursia.dll
