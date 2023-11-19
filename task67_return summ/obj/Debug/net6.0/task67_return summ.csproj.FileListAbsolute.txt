@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\c#\task67_return summ\bin\Debug\net6.0\task67_return summ.exe
+C:\Users\Admin\Desktop\c#\task67_return summ\bin\Debug\net6.0\task67_return summ.deps.json
+C:\Users\Admin\Desktop\c#\task67_return summ\bin\Debug\net6.0\task67_return summ.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\task67_return summ\bin\Debug\net6.0\task67_return summ.dll
+C:\Users\Admin\Desktop\c#\task67_return summ\bin\Debug\net6.0\task67_return summ.pdb
+C:\Users\Admin\Desktop\c#\task67_return summ\obj\Debug\net6.0\task67_return summ.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c#\task67_return summ\obj\Debug\net6.0\task67_return summ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\task67_return summ\obj\Debug\net6.0\task67_return summ.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\task67_return summ\obj\Debug\net6.0\task67_return summ.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\task67_return summ\obj\Debug\net6.0\task67_return summ.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\task67_return summ\obj\Debug\net6.0\task67_return summ.dll
+C:\Users\Admin\Desktop\c#\task67_return summ\obj\Debug\net6.0\refint\task67_return summ.dll
+C:\Users\Admin\Desktop\c#\task67_return summ\obj\Debug\net6.0\task67_return summ.pdb
+C:\Users\Admin\Desktop\c#\task67_return summ\obj\Debug\net6.0\task67_return summ.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\task67_return summ\obj\Debug\net6.0\ref\task67_return summ.dll
